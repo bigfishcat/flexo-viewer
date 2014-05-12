@@ -1,0 +1,14 @@
+<RCC>
+<qresource>
+    <file>images/headers_viewer.ico</file>
+	<file>images/application-table.png</file>
+	<file>images/go-up.png</file>
+	<file>images/go-down.png</file>
+	<file>images/dialog-close.png</file>
+	<file>images/application-exit.png</file>
+	<file>images/document-import.png</file>
+	<file>images/document-save-as.png</file>
+	<file>images/edit-find.png</file>
+	<file>images/edit-copy.png</file>
+</qresource>
+</RCC>
